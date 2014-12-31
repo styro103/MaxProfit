@@ -7,6 +7,7 @@ If a single share was bought on day P and sold on day Q, where 0 <= P <= Q < N, 
 Otherwise, the transaction brings loss of A[P] - A[Q].
 
 For example, consider the following array A consisting of six elements such that:
+
   A[0] = 23171  
   A[1] = 21011  
   A[2] = 21123
@@ -21,6 +22,7 @@ Write a function, that, given a zero-indexed array A consisting of N integers co
 The function should return 0 if it was impossible to gain any profit.
 
 For example, given array A consisting of six elements such that:
+
   A[0] = 23171  
   A[1] = 21011  
   A[2] = 21123
